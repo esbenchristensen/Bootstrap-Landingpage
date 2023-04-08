@@ -36,7 +36,7 @@ body {
 
 
 .titlecontainer {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.233), rgba(0, 0, 0, 0.238)), url("https://esbenvh.github.io/Bootstrap-Landingpage/Images/billede.jpg");
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.233), rgba(0, 0, 0, 0.238)), url("https://esbenchristensen.github.io/Bootstrap-Landingpage/Images/billede.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -47,7 +47,7 @@ body {
 }
 
 .bottomcontainer {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.233), rgba(0, 0, 0, 0.238)), url("https://esbenvh.github.io/Bootstrap-Landingpage/Images/Rectangle15.png");
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.233), rgba(0, 0, 0, 0.238)), url("https://esbenchristensen.github.io/Bootstrap-Landingpage/Images/Rectangle15.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
